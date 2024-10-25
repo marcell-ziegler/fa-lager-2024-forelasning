@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{article}
+\documentclass[12pt, a4paper, draft]{article}
 
 \usepackage{amsmath}
 \usepackage{amssymb}
@@ -14,16 +14,27 @@
     per-mode=symbol,
     inter-unit-product=\ensuremath{{}\cdot{}},
 }
+\usepackage{chemfig}
 
 \begin{document}
     \begin{center}
-        {\Huge Stjärnor}\\[1em]
-        {\Large Föreläsning av Marcell Ziegler\\[2mm]
+        \noindent
+        \vfill
+        \includegraphics[width=.8\textwidth]{img/logga-fysiklager.png}
+        \vfill
+        {\Huge \textbf{Stjärnor}}\\[3pt]
+        {\Large Föreläsning av Marcell Ziegler\\
+        \rule{\textwidth}{2pt}
         UVS Fysik- och Astronomiläger 2024, Göteborg\\[2mm]
-        2024--11--09}
+        2024--11--09}\\
+        \vfill
+        \includegraphics[width=.5\textwidth]{img/logga-uvs.png}
+        \vfill
     \end{center}
 
-    \input{sections/preface.tex}
+    \pagebreak
+
+    \input{sections/body.tex}
     \input{sections/problems.tex}
     \input{sections/answers.tex}
 
