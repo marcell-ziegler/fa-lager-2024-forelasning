@@ -6,6 +6,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[margin=2.5cm]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\sisetup{
+    output-decimal-marker={,},
+    per-mode=symbol,
+    inter-unit-product=\ensuremath{{}\cdot{}},
+}
 
 \begin{document}
     \begin{center}
@@ -18,4 +26,8 @@
     \input{sections/preface.tex}
     \input{sections/problems.tex}
     \input{sections/answers.tex}
+
+    \pagebreak
+    \appendix
+    \input{sections/appendix.tex}
 \end{document}
