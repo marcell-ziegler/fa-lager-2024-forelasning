@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{article}
+\documentclass[12pt, a4paper, draft]{article}
 
 \usepackage{amsmath}
 \usepackage{amssymb}
@@ -15,12 +15,10 @@
     per-mode=symbol,
     inter-unit-product=\ensuremath{{}\cdot{}},
 }
-\usepackage{chemfig}
-\usepackage{hyperref}
-\hypersetup {
-    linkcolor=black
-}
-\usepackage{cleveref}
+\usepackage{mhchem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[swedish]{varioref}
+\usepackage[swedish]{cleveref}
 
 \begin{document}
     \begin{center}
@@ -38,13 +36,16 @@
         \vfill
     \end{center}
 
-    \pagebreak
+    \newpage
+
+    \setlength{\parskip}{0.6\baselineskip}
+    \setlength{\parindent}{0pt}
 
     \input{sections/body.tex}
     \input{sections/problems.tex}
     \input{sections/answers.tex}
 
-    \pagebreak
+    \newpage
     \appendix
     \input{sections/appendix.tex}
 \end{document}
