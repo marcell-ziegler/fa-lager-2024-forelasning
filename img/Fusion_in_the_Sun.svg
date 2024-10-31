@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="700"
+   height="1e3"
+   version="1.1"
+   id="svg101"
+   sodipodi:docname="Fusion_in_the_Sun.svg"
+   inkscape:export-filename="Fusion_in_the_Sun.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview101"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.189"
+     inkscape:cx="350.29437"
+     inkscape:cy="500"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1192"
+     inkscape:window-y="142"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg101" />
+  <defs
+     id="defs6">
+    <marker
+       id="i"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="scale(.6) rotate(180) translate(0)"
+         d="m8.72 4.03-10.9-4.02 10.9-4.02c-1.75 2.37-1.74 5.62-6e-7 8.04z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-linejoin="round"
+         id="path1" />
+    </marker>
+    <radialGradient
+       id="a"
+       cx="-228"
+       cy="236"
+       r="25"
+       gradientTransform="matrix(.915 0 0 .915 259 -13.9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#b3b3b3"
+         offset="1"
+         id="stop2" />
+    </radialGradient>
+    <radialGradient
+       id="q"
+       cx="-228"
+       cy="236"
+       r="25"
+       gradientTransform="matrix(1.76,0,0,1.76,500,-114)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop3" />
+      <stop
+         offset="1"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       id="r"
+       cx="-228"
+       cy="236"
+       r="25"
+       gradientTransform="matrix(1.76,0,0,1.76,473,-382)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#e00000"
+         offset="1"
+         id="stop6" />
+    </radialGradient>
+    <filter
+       id="d"
+       x="-0.35294118"
+       y="-0.35294118"
+       width="1.7058824"
+       height="1.7058824"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="5"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <g
+     id="w">
+    <use
+       transform="translate(53,252)"
+       xlink:href="#x"
+       id="use6" />
+    <path
+       d="m209 586 111 73"
+       fill="none"
+       marker-end="url(#i)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="3"
+       id="path6" />
+    <path
+       d="m325 705-66 58"
+       fill="none"
+       marker-end="url(#i)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="3"
+       id="path7" />
+  </g>
+  <g
+     id="g10">
+    <text
+       font-size="40"
+       id="text8"><tspan
+         x="225"
+         y="924"
+         font-family="DejaVu Sans"
+         id="tspan8"><tspan
+   baseline-shift="super"
+   font-size="50%"
+   id="tspan7">4</tspan>He</tspan></text>
+    <text
+       id="o"
+       font-size="40"><tspan
+         x="32"
+         y="318"
+         font-family="DejaVu Sans"
+         id="tspan10"><tspan
+   baseline-shift="super"
+   font-size="50%"
+   id="tspan9">2</tspan>H</tspan></text>
+    <text
+       id="c"
+       x="95"
+       y="460"
+       font-family="FreeSerif"
+       font-size="40">γ</text>
+  </g>
+  <use
+     transform="matrix(.6 0 0 .6 -22 881)"
+     xlink:href="#e"
+     id="use10" />
+  <use
+     transform="translate(230,521)"
+     xlink:href="#g"
+     id="use11" />
+  <use
+     transform="matrix(.6 0 0 .6 -6.97 859)"
+     xlink:href="#h"
+     id="use12" />
+  <g
+     id="v">
+    <text
+       id="n"
+       x="175"
+       y="215"
+       font-family="FreeSerif"
+       font-size="40">ν</text>
+    <circle
+       id="h"
+       cx="55"
+       cy="205"
+       r="13"
+       fill="url(#a)" />
+    <use
+       transform="matrix(-1,0,0,1,240,0)"
+       xlink:href="#s"
+       id="use13" />
+    <g
+       id="k">
+      <text
+         id="j"
+         font-size="40"><tspan
+           x="5"
+           y="55"
+           font-family="DejaVu Sans"
+           id="tspan14"><tspan
+   baseline-shift="super"
+   font-size="50%"
+   id="tspan13">1</tspan>H</tspan></text>
+      <circle
+         id="e"
+         cx="80"
+         cy="40"
+         r="25"
+         fill="url(#r)" />
+    </g>
+    <g
+       id="l">
+      <use
+         transform="translate(80)"
+         xlink:href="#e"
+         id="use14" />
+      <use
+         transform="translate(182)"
+         xlink:href="#j"
+         id="use15" />
+    </g>
+    <g
+       id="x">
+      <path
+         id="s"
+         d="m102 173-32 22"
+         fill="none"
+         marker-end="url(#i)"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-width="2" />
+      <g
+         id="g">
+        <circle
+           cx="120"
+           cy="160"
+           r="17"
+           fill="#f99"
+           filter="url(#d)"
+           id="circle15" />
+        <path
+           d="m129 182-9-17-9 17 6-19-19 6 17-9-17-9 19 6-6-19 9 17 9-17-6 19 19-6-17 9 17 9-19-6z"
+           fill="#f2f200"
+           stroke="#c7c700"
+           stroke-width=".5"
+           id="path15" />
+      </g>
+      <path
+         id="f"
+         d="m89 67 21 63"
+         fill="none"
+         marker-end="url(#i)"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-width="3" />
+      <use
+         transform="matrix(-1,0,0,1,240,0)"
+         xlink:href="#f"
+         id="use16" />
+      <path
+         d="m120 185v75"
+         fill="none"
+         marker-end="url(#i)"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-width="3"
+         id="path16" />
+    </g>
+  </g>
+  <path
+     d="m350 713v141"
+     fill="none"
+     marker-end="url(#i)"
+     stroke="#000"
+     stroke-linecap="round"
+     stroke-width="3"
+     id="path17" />
+  <use
+     transform="matrix(.6 0 0 .6 -38.2 762)"
+     xlink:href="#m"
+     id="use17" />
+  <use
+     transform="translate(305,745)"
+     xlink:href="#l"
+     id="use18" />
+  <use
+     transform="translate(155,745)"
+     xlink:href="#k"
+     id="use19" />
+  <use
+     transform="translate(53,252)"
+     xlink:href="#l"
+     id="use20" />
+  <g
+     id="b">
+    <circle
+       id="m"
+       cx="107"
+       cy="308"
+       r="25"
+       fill="url(#q)" />
+    <use
+       transform="translate(53,252)"
+       xlink:href="#e"
+       id="use21" />
+  </g>
+  <use
+     transform="translate(224,599)"
+     xlink:href="#b"
+     id="use22" />
+  <use
+     transform="translate(236,616)"
+     xlink:href="#b"
+     id="use23" />
+  <text
+     id="p"
+     font-size="40"><tspan
+       x="221"
+       y="580"
+       font-family="DejaVu Sans"
+       id="tspan24"><tspan
+   baseline-shift="super"
+   font-size="50%"
+   id="tspan23">3</tspan>He</tspan></text>
+  <g
+     id="u"
+     transform="translate(46,-50)">
+    <use
+       transform="translate(7,308)"
+       xlink:href="#b"
+       id="use24" />
+    <use
+       transform="translate(55,585)"
+       xlink:href="#e"
+       id="use25" />
+  </g>
+  <use
+     transform="translate(407,252)"
+     xlink:href="#k"
+     id="use26" />
+  <use
+     transform="translate(591)"
+     xlink:href="#o"
+     id="use27" />
+  <use
+     transform="translate(487,252)"
+     xlink:href="#e"
+     id="use28" />
+  <use
+     transform="translate(486)"
+     xlink:href="#m"
+     id="use29" />
+  <use
+     transform="translate(187)"
+     xlink:href="#p"
+     id="use30" />
+  <use
+     transform="translate(354)"
+     xlink:href="#u"
+     id="use31" />
+  <use
+     transform="matrix(-1,0,0,1,698,0)"
+     xlink:href="#w"
+     id="use32" />
+  <use
+     transform="translate(488)"
+     xlink:href="#c"
+     id="use33" />
+  <use
+     transform="translate(574 488)"
+     xlink:href="#c"
+     id="use34" />
+  <use
+     transform="translate(460)"
+     xlink:href="#v"
+     id="use35" />
+  <use
+     transform="translate(494 775)"
+     xlink:href="#n"
+     id="use36" />
+  <g
+     font-family="DejaVu Sans"
+     font-size="25"
+     id="g101">
+    <switch
+       transform="translate(50 915)"
+       id="switch46">
+      <text
+         systemLanguage="ca"
+         id="text36">Protó</text>
+      <text
+         systemLanguage="de, en, fr, no, sv"
+         id="text37">Proton</text>
+      <text
+         systemLanguage="el"
+         id="text38">Πρωτόνιο</text>
+      <text
+         systemLanguage="es"
+         id="text39">Protón</text>
+      <text
+         systemLanguage="hu, nl"
+         id="text40">proton</text>
+      <text
+         systemLanguage="it"
+         id="text41">Protone</text>
+      <text
+         systemLanguage="ja"
+         id="text42">陽子</text>
+      <text
+         systemLanguage="mk, ru, uk"
+         id="text43">Протон</text>
+      <text
+         systemLanguage="tr"
+         id="text44">Önelcik</text>
+      <text
+         systemLanguage="zh"
+         id="text45">質子</text>
+      <text
+         id="text46">Proton</text>
+    </switch>
+    <switch
+       transform="translate(50 956)"
+       id="switch59">
+      <text
+         systemLanguage="ca"
+         id="text47">Neutró</text>
+      <text
+         systemLanguage="de, en, fr, sv"
+         id="text48">Neutron</text>
+      <text
+         systemLanguage="el"
+         id="text49">Νετρόνιο</text>
+      <text
+         systemLanguage="es"
+         id="text50">Neutrón</text>
+      <text
+         systemLanguage="hu, nl"
+         id="text51">neutron</text>
+      <text
+         systemLanguage="it"
+         id="text52">Neutrone</text>
+      <text
+         systemLanguage="ja"
+         id="text53">中性子</text>
+      <text
+         systemLanguage="mk"
+         id="text54">Неутрон</text>
+      <text
+         systemLanguage="no"
+         id="text55">Nøytron</text>
+      <text
+         systemLanguage="ru, uk"
+         id="text56">Нейтрон</text>
+      <text
+         systemLanguage="tr"
+         id="text57">Ilıncık</text>
+      <text
+         systemLanguage="zh"
+         id="text58">中子</text>
+      <text
+         id="text59">Neutron</text>
+    </switch>
+    <switch
+       transform="translate(50 991)"
+       id="switch71">
+      <text
+         systemLanguage="ca"
+         id="text60">Positró</text>
+      <text
+         systemLanguage="de, en, fr, no, sv"
+         id="text61">Positron</text>
+      <text
+         systemLanguage="el"
+         id="text62">Ποζιτρόνιο</text>
+      <text
+         systemLanguage="es"
+         id="text63">Positrón</text>
+      <text
+         systemLanguage="hu"
+         id="text64">pozitron</text>
+      <text
+         systemLanguage="it"
+         id="text65">Positrone</text>
+      <text
+         systemLanguage="ja"
+         id="text66">陽電子</text>
+      <text
+         systemLanguage="mk, ru, uk"
+         id="text67">Позитрон</text>
+      <text
+         systemLanguage="nl"
+         id="text68">positron</text>
+      <text
+         systemLanguage="tr"
+         id="text69">Artıcık</text>
+      <text
+         systemLanguage="zh"
+         id="text70">正電子</text>
+      <text
+         id="text71">Positron</text>
+    </switch>
+    <switch
+       transform="translate(656 949)"
+       text-anchor="end"
+       id="switch89">
+      <text
+         systemLanguage="ca"
+         id="text72">Raig gamma</text>
+      <text
+         systemLanguage="de"
+         id="text73">Gammastrahlung</text>
+      <text
+         systemLanguage="en"
+         id="text74">Gamma ray</text>
+      <text
+         systemLanguage="el"
+         id="text75">Ακτίνες γάμμα</text>
+      <text
+         systemLanguage="es"
+         id="text76">Rayos Gamma</text>
+      <text
+         systemLanguage="fr"
+         id="text77">Rayon gamma</text>
+      <text
+         systemLanguage="hu"
+         id="text78">foton</text>
+      <text
+         systemLanguage="it"
+         id="text79">Raggio Gamma</text>
+      <text
+         systemLanguage="ja"
+         id="text80">ガンマ線</text>
+      <text
+         systemLanguage="mk"
+         id="text81">Гама-зрачење</text>
+      <text
+         systemLanguage="nl"
+         id="text82">gammastraling</text>
+      <text
+         systemLanguage="no"
+         id="text83">Gammastråling</text>
+      <text
+         systemLanguage="ru"
+         id="text84">Гамма-квант</text>
+      <text
+         systemLanguage="sv"
+         id="text85">Gammafoton</text>
+      <text
+         systemLanguage="tr"
+         id="text86">Gama Işını</text>
+      <text
+         systemLanguage="uk"
+         id="text87">Гамма-промені</text>
+      <text
+         systemLanguage="zh"
+         id="text88">伽马射线</text>
+      <text
+         id="text89">Gamma ray</text>
+    </switch>
+    <switch
+       transform="translate(656 988)"
+       text-anchor="end"
+       id="switch101">
+      <text
+         systemLanguage="ca"
+         id="text90">Neutrí</text>
+      <text
+         systemLanguage="de, en, es, fr, it, sv"
+         id="text91">Neutrino</text>
+      <text
+         systemLanguage="el"
+         id="text92">Νετρίνο</text>
+      <text
+         systemLanguage="hu"
+         id="text93">neutrínó</text>
+      <text
+         systemLanguage="ja"
+         id="text94">ニュートリノ</text>
+      <text
+         systemLanguage="mk"
+         id="text95">Неутрино</text>
+      <text
+         systemLanguage="nl"
+         id="text96">neutrino</text>
+      <text
+         systemLanguage="no"
+         id="text97">Nøytrino</text>
+      <text
+         systemLanguage="ru, uk"
+         id="text98">Нейтрино</text>
+      <text
+         systemLanguage="tr"
+         id="text99">Nötrino</text>
+      <text
+         systemLanguage="zh"
+         id="text100">微中子</text>
+      <text
+         id="text101">Neutrino</text>
+    </switch>
+  </g>
+</svg>
