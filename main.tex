@@ -4,7 +4,7 @@
 \usepackage{amssymb}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{graphicx}
+\usepackage[]{graphicx}
 \usepackage[margin=2.5cm]{geometry}
 \usepackage[swedish]{babel}
 \usepackage{array}
@@ -23,9 +23,11 @@
     per-mode=symbol,
     inter-unit-product=\ensuremath{{}\cdot{}},
     range-phrase={\ensuremath{\text{--}}},
-    range-units={single}
+    range-units={single},
+    exponent-product={\ensuremath{\cdot}}
 }
 \usepackage[version=4]{mhchem}
+\usepackage[printsolution={true},exercisename={Uppgift},solutionname={Lösning}]{exercises}
 \usepackage[hidelinks]{hyperref}
 \usepackage[swedish]{varioref}
 \usepackage[swedish]{cleveref}
@@ -55,9 +57,11 @@
 
     \input{sections/body.tex}
     \input{sections/problems.tex}
+    \solutionnewpage
     \input{sections/answers.tex}
 
     \newpage
     \appendix
     \input{sections/appendix.tex}
 \end{document}
+
